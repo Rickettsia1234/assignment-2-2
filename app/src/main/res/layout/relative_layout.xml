@@ -11,7 +11,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="110dp"
+        android:layout_marginBottom="130dp"
         android:layout_weight="10"
         android:gravity="center"
         android:text="로그인"
@@ -50,7 +51,7 @@
         android:text="로그인" />
 
     <LinearLayout
-        android:id="@+id/layout_sns_logos2"
+        android:id="@+id/layout_sns_logos3"
         android:layout_width="match_parent"
         android:layout_height="64dp"
         android:layout_below="@id/btn_login_submit2"
@@ -99,10 +100,10 @@
     </LinearLayout>
 
     <LinearLayout
-        android:id="@+id/layout_footer_links2"
+        android:id="@+id/layout_footer_links3"
         android:layout_width="match_parent"
         android:layout_height="64dp"
-        android:layout_below="@id/layout_sns_logos2"
+        android:layout_below="@id/layout_sns_logos3"
         android:layout_weight="5"
         android:orientation="horizontal">
 
@@ -138,6 +139,6 @@
         android:id="@+id/spacer_bottom2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@id/layout_footer_links2" />
+        android:layout_below="@id/layout_footer_links3" />
 
 </RelativeLayout>
