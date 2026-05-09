@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assignment2_1</string>
+    <string name="login_title">Login</string>
+    <string name="hint_id">ID</string>
+    <string name="hint_pw">Password</string>
+    <string name="btn_login_text">Sign In</string>
+    <string name="btn_find_pw">Find Password</string>
+    <string name="btn_register">Sign Up</string>
+</resources>
