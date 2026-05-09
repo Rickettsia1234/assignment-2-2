@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_title_size">24sp</dimen>
+    <dimen name="input_margin_top">8dp</dimen>
+    <dimen name="logo_height">60dp</dimen>
+    <dimen name="footer_height">60dp</dimen>
+    <item name="login_guideline_percent" format="float" type="dimen">0.25</item>
+</resources>
